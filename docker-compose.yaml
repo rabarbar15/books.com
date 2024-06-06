@@ -1,0 +1,14 @@
+services:
+  web:
+    build: ./backend
+    ports:
+      - "3003:3003"
+    volumes:
+      - ./backend:/backend
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - "./frontend:/frontend"
