@@ -33,7 +33,6 @@ export default function Orders() {
                 
                 {orders.map((order, index) => (
                     <tr key={order.id}>
-                        <td></td>
                         <td>{index + 1}</td>
                         <td>{order.address}</td>
                         <td><Link to={`/orderItems/${order.id}`}>See items</Link></td>
