@@ -2,7 +2,7 @@
 
 ## v1.0.0   
 
-Books.com is a web-based application that allows signed-in users to browse and order various books. The application is built using React for the frontend and Express for the backend, 
+Books.com is a web-based application that allows users to browse and order various books. The application is built using React for the frontend and Express for the backend, 
 following the MVC (Model-View-Controller) design pattern. It provides a REST API to exchange data between the client and server. Data is stored in a Sqlite database.
 
 ## Features
