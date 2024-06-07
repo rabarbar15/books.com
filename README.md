@@ -53,4 +53,7 @@ following the MVC (Model-View-Controller) design pattern. It provides a REST API
 ## App preview   
 
 * Aplication will start on: `http://localhost:5173`
-   
+
+https://github.com/rabarbar15/books.com/assets/167764560/87ed18c4-7c20-474e-b474-e83b6327becc
+
+
